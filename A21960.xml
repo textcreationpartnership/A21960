@@ -1,0 +1,297 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the Queene a proclamation for proceeding against Iesuites and secular priests, their receiuers, relieuers, and maintainers.</title>
+            <author>England and Wales. Sovereign (1558-1603 : Elizabeth I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1602</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A21960</idno>
+            <idno type="STC">STC 8295</idno>
+            <idno type="STC">ESTC S3734</idno>
+            <idno type="EEBO-CITATION">33150872</idno>
+            <idno type="OCLC">ocm 33150872</idno>
+            <idno type="VID">28793</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A21960)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 28793)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1874:103)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the Queene a proclamation for proceeding against Iesuites and secular priests, their receiuers, relieuers, and maintainers.</title>
+                  <author>England and Wales. Sovereign (1558-1603 : Elizabeth I)</author>
+                  <author>Elizabeth I, Queen of England, 1533-1603.</author>
+               </titleStmt>
+               <extent>3 leaves.   </extent>
+               <publicationStmt>
+                  <publisher>By Robert Barker, Printer to the Queenes most excellent Maiestie,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>Anno Dom. 1602.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Requiring their departure from England.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>"Giuen at our Manour of Richmont [sic], the fift [sic] day of Nouember, in the foure and fourtieth yeere of our Reigne."</note>
+                  <note>Reproduction of original in: Harvard University. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Jesuits --  England.</term>
+               <term>Anti-Catholicism --  England.</term>
+               <term>Church and state --  England.</term>
+               <term>Great Britain --  History --  Elizabeth, 1558-1603.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:28793:1" rendition="simple:additions"/>
+            <head>
+               <g ref="char:leaf">❧</g> By the Queene.</head>
+            <head> 
+               <g ref="char:leaf">❧</g> A Proclamation for proceeding againſt Ieſuites and Secular Prieſtes, their
+Receiuers, Relieuers, and Maintainers.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">A</seg>S the clemencie wherewith wee haue euer found our heart poſſeſſed</hi> towards our
+Subiects of all ſorts, and our deſire to auoyde all occaſions of drawing blood (though neuer
+ſo iuſtly grounded vpon the rules of policie, and vigor of our Lawes) haue bene a great cauſe
+that of late yeeres wee haue vſed greater forbearance from the execution of ſome Ordinances
+eſtabliſhed by aduice of our Parliaments, for the conſerua<g ref="char:EOLhyphen"/>tion of the true Religion now
+profeſſed in our Kingdomes, and for the reſiſting of all di<g ref="char:EOLhyphen"/>ſturbers &amp; Corrupters of
+the ſame, Eſpecially from forreigne parts, and the receiuers and harbourers of them, then the
+iuſt conſideration of the ſafety of our Eſtate may welendure, or the examples of ſome
+other Princes, where one forme of Religion hath euer bene on<g ref="char:EOLhyphen"/>ly allowed, do regularly approue: So
+do we truely confeſſe, that our hope was that thoſe Romiſh Prieſts who were ſent into
+this Realme by foraigne Authoritie, to ſeduce our people from their affection to Religion, and
+ſo by conſequence from the conſtancie of their obedience to vs (hauing felt for a time the
+ſeueritie of our Lawes formerly inflicted) would either by our Clemencie haue bene mooued, or out
+of their owne Iudgment haue learned to forbeare to prouoke vs to any ſharper courſe of
+proceeding, and not ſo notoriouſly haue abuſed our mercy, as they haue done. For whileſt
+wee in our Princely Commiſeration, and pitie of their ſeduced blindneſſe, held this ſo
+milde and mercifull a hand ouer them, they in the meane time greatly forgetting our patience and
+lenitie, haue ſought like vnthankefull Subiects, the vtter ruine both of vs and of our Kingdomes,
+to the vttermoſt of their abilities. It is apparent to the world with how great malice of late
+our King<g ref="char:EOLhyphen"/>dome of Ireland hath bene inuaded by the King of Spaine, and how <hi>Don Giouan</hi> (his
+chiefe Commander) publiſhed a war<g ref="char:EOLhyphen"/>rant from the See of Rome to depriue vs of our Crowne, and to
+proclaime his Maſter Lord of the ſame: The Spaniards themſelues hauing not onely declared,
+but afterwards bitterly complained in their miſeries and diſtreſſes, that the Secu<g ref="char:EOLhyphen"/>lar
+Prieſts and Ieſuits, had both of them inuited the King their Maſter to that vnfortunate
+enterpriſe, by abuſing him groſſely with reporting our forces to be ſo contemptible, and
+their owne party ſo powerful, as the conqueſt of that Realme was moſt aſſured. And that
+we might not conceiue any better hope of them hereafter, it is in like ſort made manifeſt to
+the greateſt part of <hi>Europe</hi> (as we ſuppoſe) by their owne Bookes lately publiſhed,
+that they haue already very maliciouſly and wickedly combined themſelues together in this our
+Realme, for the aduancement of our enemies, the peruerting of our Subiects, and aſmuch as in them
+lieth, the ſubuerſion of our Eſtate, in that almoſt all the Engliſh Secular Prieſts by
+yeelding their obedience to a new kinde of Subordination erected amongſt them, haue in effect
+ſubiected themſelues to be wholly directed by the Ieſuits (men altogether alienated from
+their true allegeance to vs and deuoted with all their might to the King of Spaine,) whereby both
+the one ſort and the other ſo linked together, not mindful of their dueties to God, to vs their
+lawfull Soueraigne, and to our Kingdome their Natiue Countrey, are become moſt dangerous, and
+more ſedicious (if it may be) then at any time heretofore: being growen to ſuch an height of
+impietie, as that they freely in their late Treatiſes profeſſe, that our Subiects are bound
+to ſight againſt vs, and to ioyne their forces with any Ene<g ref="char:EOLhyphen"/>mie that the Pope ſhall ſend to
+ſubdue vs &amp; our Dominions, vnder pretence of reſtoring of the Romane Religion within our
+Kingdomes. Beſides, ſuch is their pride and preſumption, as that they thruſt themſelues
+into all the affaires of our Eſtate, aduenturing in their writings and ſpeeches to diſpoſe
+of our Kingdomes and Crowne at their pleaſures, if any of their owne ſort being of a milder
+temper, as mooued in conſcience, doe but ſeeme to acknowledge the lenitie of our procee<g ref="char:EOLhyphen"/>dings
+and gouernment, it is a ſufficient cauſe of their hatred and reuenge to purſue and
+proſecute them as their enemies.</p>
+            <p>And leſt the generation of ſuch wickedly diſpoſed perſons ſhould in time be rooted
+out or decay, they make an vſual mar<g ref="char:EOLhyphen"/>ket of tranſporting the youth of our Realme vnto forraine
+Seminaries, thereby to corrupt the beſt Families, and to hatch vp a ſucceeding brood like to
+themſelues, that by libelling, treachery, and all kind of traiterous practiſes, may ſtil
+ſeeke and indeuour to perturbe and moleſt vs.</p>
+            <pb facs="tcp:28793:2" rendition="simple:additions"/>
+            <p>And whereas of late much contention and controuerſie hath ariſen betwixt the Ieſuites
+&amp; the Secular Prieſts combined with them on the one part, and certaine of the Secular
+Prieſts diſſenting from them in diuerſe pointes on the other part, therby a great
+difference of offence againſt vs and our State betwixt the one &amp; the other ſect hath
+manifeſtly appeared: the Ieſuites and the Secular Prieſts their adherents ſeeking and
+practizing by their continuall plotts &amp; deſſeignes not onely to ſtirre vp forraine
+Princes againſt vs to the inuaſion and Conqueſt of our Kingdome, but alſo euen to murther
+our per<g ref="char:EOLhyphen"/>ſon: the other Secular Prieſtes not onely proteſting againſt the ſame as a thing
+moſt wicked, deteſtable and damnable, but alſo offering themſelues both in their writings
+and ſpeeches to be the firſt that ſhall diſcouer ſuch traiterous intenti<g ref="char:EOLhyphen"/>ons againſt vs
+and our State, and to be the formoſt by armes and all other meanes to ſuppreſſe it. So as
+it is plaine that the treaſon which is lodged in the hearts of the Ieſuites &amp; their
+adherents is fraughted with much more violent malice, perill and poyſon both againſt vs and our
+State, then that diſloyaltie and diſobedience which is found in the other Se<g ref="char:EOLhyphen"/>cular Prieſtes
+that are oppoſite therein vnto them. In which reſpect, although we haue ſo conceiued of them,
+and that we could haue bene well pleaſed that the ſame ſhould further haue appeared in
+diſtinguiſhing betwixt them, by the execution of our Lawes: yet ſuch is likewiſe their
+carriage otherwiſe towardes vs, as we may not (according to our naturall diſpo<g ref="char:EOLhyphen"/>ſition ready
+at all times to appprehend the leaſt cauſe to ſhewe mercy) any longer permit it with the
+Honour of our State, good of our Subiects, and ſafetie of our Kingdome. For it is euident, that
+howſoeuer they be at variance with the Ie<g ref="char:EOLhyphen"/>ſuites, and that faction; they concurre
+notwithſtanding and agree together in apparant diſobedience and diſloyalty a<g ref="char:EOLhyphen"/>gainſt vs,
+maſking themſelues vnder the vizard of pretended conſcience (a ſuggeſtion of all other
+moſt perillous) there<g ref="char:EOLhyphen"/>by to ſteale away the hearts eſpecially of ſimple and common Subiects
+from vs their Soueraigne, ſince vnder colour thereof they labour day and night to winne and
+withdrawe them from their ſound and due obedience both to vs and our Lawes, and to vnite and knit
+them to our mortal enemie the Pope, encreaſing thereby his number and diminiſhing ours: a
+matter moſt dangerous to our State, and not to bee indured in the rule or policie of any well
+gouerned Common wealth: The ſame our enemie hauing had as a Temporall Prince his Banner in the
+fielde, and ſtill continuing his war<g ref="char:EOLhyphen"/>like ſtratagems againſt vs.</p>
+            <p>Furthermore, we cannot coniecture, but doe wonder vpon what grounds they proceede (except it be
+our ſufferance and benignitie, which is greatly neglected by them) in that they carry
+themſelues in ſo great and inſolent animoſitie, as they doe almoſt inſinuate thereby
+into the minds of all ſorts of people (as well the good that grieue at it, as the bad that
+thirſt after it) that we haue ſome purpoſe to grant toleration of two religions within our
+Realme, where God (we thanke him for it, who ſeeth into the ſecret corners of all hearts) doth
+not onely know our owne innocencie from ſuch imagination, but how farre it hath bene from any
+about vs, once to offer to our eares the perſwaſion of ſuch a courſe, as would not only
+diſturbe the peace of the Church, but bring this our State into confuſion. And to the further
+agrauating of this their au<g ref="char:EOLhyphen"/>dacious boldnes, we finde that their ſayd conceipt of a toleration,
+is accompanied with very great libertie and intollerable preſumption, in that they dare aduenture
+to walke in the ſtreetes at noone dayes, to reſort to priſons publikely, and ex<g ref="char:EOLhyphen"/>ecute their
+functions in contempt of our Lawes, neuer ceaſing the one ſide as well as the other, by theſe
+and many more their intollerable proceedings, to waken our Iuſtice, which for the reſpect
+before mentioned, hath lien in a ſlumber, where in all good policie, it had bene their parts (if
+euer) by a farre contrary courſe, to haue preſcribed to themſelues the ſtricteſt rules
+and cautions of giuing any ſuch notorious ſcandals, to ſo notable clemencie, neuer moued but
+by conſtraint to thinke vpon any ſeueritie. From the which our ſayd milde and merciſul
+conniuencie towards ſuch vnthankefull and in<g ref="char:EOLhyphen"/>conſiderate perſons, we finde this furder
+miſchiefe proceeding, That ſome other natures (apt to innouation and affected much to their
+owne opinions) haue broken forth on the other ſide into factious inuectiues in print, againſt
+our preſent go<g ref="char:EOLhyphen"/>uernement: whereunto they impute ſuch remiſſnes, as if no care were had by
+any, but a few of themſelues, to preſerue Religion. Of which pamphlets or any other to come
+foorth in like kinde, as we would quickly make the authours (if they were layd open) to feele the
+waight of our indignation, in preſuming to take vpon them to cenſure our gouernement,
+ac<g ref="char:EOLhyphen"/>cording to their vaine conceipts, whereby they both iniure our innocencie, and ſcandalize many
+other good and zealous perſons, which are free from their vnquiet humours, though oppoſite to
+the aduerſe part: ſo to auoyde (in ſome ſort) all theſe inconueniences, miſchiefes,
+murmurings, and heart burnings in this Realme, (The gouernement whereof hath bene and is as well in
+temporall as Eccleſiaſticall things moſt firmely eſtabliſhed by generall conſent in
+Parliament) We haue thought it neceſſarie to giue ſome generall notice to our ſeruants and
+officers put in truſt in our ſeuerall countreyes for the gouernement of our people, how much we
+miſlike it, That many of them conceiuing more of this late ceſſation
+<pb facs="tcp:28793:3" rendition="simple:additions"/>of Iuſtice, then there was cauſe, haue bene ſo
+remiſſe in preuenting the reſort of ſecular Prieſts and Ieſuites into places where they
+haue authoritie, as they haue ſeldome made ſearches for them, or taken paines in apprehending
+them, as in for<g ref="char:EOLhyphen"/>mer times was vſed to be done, and as the Lawes of the Realme doe require. And
+therefore we haue reſolued to publiſh this our Admonition and commandement, whereby we firſt
+require and charge all Ieſuits and ſecular Prieſts combined together, as is before
+expreſſed, who are at libertie within this our Realme (by whoſe ſole Act of their very
+comming into this kingdome, they are within the danger of our Lawes) That they do forthwith depart
+out of our Dominions and Ter<g ref="char:EOLhyphen"/>ritories, and not by their abode any longer, prouoke vs to extend the
+rigour of our Lawes vpon them.</p>
+            <p>And that the other ſort alſo of the Secular Prieſtes (that are at liberty and in ſome
+things oppoſite vnto the Ieſuits) doe likewiſe in the ſame reſpect, depart out of our
+Dominions and Territories, betwixt this and the firſt of Ianuarie next euſuing, except ſuch
+of them as ſhall in the meane time preſent themſelues to ſome of the Lords or others of our
+pri<g ref="char:EOLhyphen"/>uie Counſell, to our preſidents of Wales and Yorke, or to the Biſhops of the
+Dioceſſes, and before them acknowledging ſincerely their duety and allegeance vnto vs,
+ſhall ſubmit themſelues to our mercy, with whom we will then (vpon cer<g ref="char:EOLhyphen"/>tificate from the
+ſaid Preſidents &amp; Biſhops, which we require to be ſent vp to our Counſel within xx.
+dayes after ſuch ſub<g ref="char:EOLhyphen"/>miſſion) take ſuch further order, as ſhalbe thought by vs to be
+moſt meete and conuenient. Next, we do warne and co<g ref="char:cmbAbbrStroke">̄</g>mand both al thoſe who ſhall hereupon
+depart, as alſo all other Romiſh Prieſts, be they Secular or Religious, as well Ieſuites as
+of any other order (being our ſubiects) now already out of our Realme, That they preſume not to
+returne into our king<g ref="char:EOLhyphen"/>dome, vpon any pretence whatſoeuer. For which purpoſe alſo, we doe
+hereby giue notice vnto all our Miniſters to whom the adminiſtration of Iuſtice is committed,
+That if the Ieſuites and Secular Prieſts combined with them, ſhal not with<g ref="char:EOLhyphen"/>in thirty dayes,
+&amp; the other ſort of Secular Prieſts ſhal not before the firſt of February (except as
+before is excepted) after this be publiſhed within this our Realme, repaire to ſome knowen
+port, and there imbarke themſelues for forraine coun<g ref="char:EOLhyphen"/>treys, That then we leaue them, their
+Receiuers, Releeuers, and maintainers, to be delt and proceeded with, according to the power and
+Iuſtice of our Lawes, whereſoeuer they ſhall be found within the ſame. And to the ende they
+may be the ſooner auoyded from hence, and ſo our Realme free from the danger and infection,
+which is deriued from their continuall workings vpon mens conſciences: we doe hereby ſtrictly
+command and charge all our Lieutenants, Deputy lieutenants, Commiſſioners, Iuſtices of Peace,
+Maiors, Sheriffes, Bayliffs, and all other our officers whatſoeuer, That they be from henceforth
+circumſpect and vigilant, each of them in their ſeuerall charges, to ſearch all places
+ſuſpe<g ref="char:EOLhyphen"/>cted, or whereof they ſhall haue any information giuen them, and to apprehend all
+ſuch Ieſuites and Secular Prieſtes, together with their Receiuers, Releeuers, and
+maintainers, equally ſubiect to the penalties of our Lawes, And to ad<g ref="char:EOLhyphen"/>uertiſe our Counſell of
+their proceedings, to the ende we may bee informed of the care and diligence which ſhall be
+vſed in that behalfe, as they will anſwere the contrarie at their perill.</p>
+            <closer>
+               <dateline>Giuen at our Manour of Richmont,
+<date>the fiſt day of Nouember, in the foure and fourtieth yeere of our
+Reigne.</date>
+               </dateline>
+            </closer>
+            <closer>God ſaue the Queene.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>¶ Imprinted at London by Robert Barker, Printer to <hi>the Queenes moſt excellent
+Maieſtie.</hi> Anno Dom. 1602.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
